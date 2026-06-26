@@ -1,0 +1,1379 @@
+[
+  {
+    "uid": 5337688587,
+    "password": "satvir_HBTv13IC",
+    "account_id": "16180955397",
+    "name": "satvir✬_⁸³⁶²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:27",
+    "thread_id": 13
+  },
+  {
+    "uid": 5337688624,
+    "password": "satvir_jgVNwGQz",
+    "account_id": "16180955563",
+    "name": "satvir_³⁷²⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:28",
+    "thread_id": 112
+  },
+  {
+    "uid": 5337688636,
+    "password": "satvir_orjR9TF5",
+    "account_id": "16180955576",
+    "name": "satvir✫_⁴⁶⁹⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:30",
+    "thread_id": 42
+  },
+  {
+    "uid": 5337688709,
+    "password": "satvir_gz6wRjtr",
+    "account_id": "16180955473",
+    "name": "satvir_⁵⁵⁰⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:31",
+    "thread_id": 8
+  },
+  {
+    "uid": 5337688693,
+    "password": "satvir_z8l1Y3wm",
+    "account_id": "16180955665",
+    "name": "satvir_⁹⁸¹⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:32",
+    "thread_id": 36
+  },
+  {
+    "uid": 5337688589,
+    "password": "satvir_JzicwyZB",
+    "account_id": "16180955834",
+    "name": "satvir_⁰⁴⁶¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:33",
+    "thread_id": 1
+  },
+  {
+    "uid": 5337688798,
+    "password": "satvir_ZT9JNsm7",
+    "account_id": "16180955890",
+    "name": "satvir⁂_⁴²³⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:35",
+    "thread_id": 124
+  },
+  {
+    "uid": 5337688752,
+    "password": "satvir_XE2wh1ic",
+    "account_id": "16180955578",
+    "name": "satvir♡_³²⁷²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:36",
+    "thread_id": 149
+  },
+  {
+    "uid": 5337688696,
+    "password": "satvir_RKaMwQ56",
+    "account_id": "16180955969",
+    "name": "satvir_¹¹⁶⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:37",
+    "thread_id": 50
+  },
+  {
+    "uid": 5337688590,
+    "password": "satvir_NEYurCdV",
+    "account_id": "16180955671",
+    "name": "satvir_⁶¹¹⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:37",
+    "thread_id": 101
+  },
+  {
+    "uid": 5337688801,
+    "password": "satvir_C1X2wPws",
+    "account_id": "16180956299",
+    "name": "satvir_⁵¹⁴⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:37",
+    "thread_id": 69
+  },
+  {
+    "uid": 5337688659,
+    "password": "satvir_9v1ZaZXK",
+    "account_id": "16180955661",
+    "name": "satvir_⁵⁷⁰⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 81
+  },
+  {
+    "uid": 5337688739,
+    "password": "satvir_9miRhUK8",
+    "account_id": "16180955503",
+    "name": "satvir_⁴¹⁵⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 61
+  },
+  {
+    "uid": 5337688704,
+    "password": "satvir_6LYN7R5a",
+    "account_id": "16180955812",
+    "name": "satvir_⁰⁹⁰⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 94
+  },
+  {
+    "uid": 5337688669,
+    "password": "satvir_OkAVXFzR",
+    "account_id": "16180955824",
+    "name": "satvir✪_⁵⁵⁶⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 115
+  },
+  {
+    "uid": 5337688649,
+    "password": "satvir_rdV5BRWB",
+    "account_id": "16180956091",
+    "name": "satvir✮_⁰⁷⁴⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 93
+  },
+  {
+    "uid": 5337688805,
+    "password": "satvir_qE13J0hG",
+    "account_id": "16180956082",
+    "name": "satvir_²⁷³⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 100
+  },
+  {
+    "uid": 5337688964,
+    "password": "satvir_pQkIr0tR",
+    "account_id": "16180956039",
+    "name": "satvir❆_⁹⁵²⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 162
+  },
+  {
+    "uid": 5337688851,
+    "password": "satvir_q4s8SskL",
+    "account_id": "16180955992",
+    "name": "satvir∞_⁰²⁶⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 88
+  },
+  {
+    "uid": 5337688796,
+    "password": "satvir_OZlEbUGx",
+    "account_id": "16180955797",
+    "name": "satvir_⁰⁹⁴⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 80
+  },
+  {
+    "uid": 5337688710,
+    "password": "satvir_PoLmFRnw",
+    "account_id": "16180956036",
+    "name": "satvir_⁷¹⁹⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 14
+  },
+  {
+    "uid": 5337688713,
+    "password": "satvir_IJZTWhoc",
+    "account_id": "16180955705",
+    "name": "satvir✧_⁸³⁸³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 139
+  },
+  {
+    "uid": 5337688903,
+    "password": "satvir_YnP63kcL",
+    "account_id": "16180955934",
+    "name": "satvir‡_⁹⁷⁰⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:38",
+    "thread_id": 156
+  },
+  {
+    "uid": 5337688867,
+    "password": "satvir_zAfzXVix",
+    "account_id": "16180956061",
+    "name": "satvir_⁶⁶³⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 102
+  },
+  {
+    "uid": 5337688712,
+    "password": "satvir_ViehiYkR",
+    "account_id": "16180956214",
+    "name": "satvir_⁵⁶⁹⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 99
+  },
+  {
+    "uid": 5337688608,
+    "password": "satvir_ypWXK39D",
+    "account_id": "16180955854",
+    "name": "satvir♡_³⁵³⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 29
+  },
+  {
+    "uid": 5337688729,
+    "password": "satvir_59pNiyqj",
+    "account_id": "16180956208",
+    "name": "satvir_¹⁹⁶³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 85
+  },
+  {
+    "uid": 5337688664,
+    "password": "satvir_yJpuSWRm",
+    "account_id": "16180955553",
+    "name": "satvir_⁷²⁸²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 9
+  },
+  {
+    "uid": 5337688582,
+    "password": "satvir_BCKcnfUn",
+    "account_id": "16180955839",
+    "name": "satvir•_⁸⁵⁷³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 27
+  },
+  {
+    "uid": 5337688832,
+    "password": "satvir_2C4uJDwP",
+    "account_id": "16180956553",
+    "name": "satvir〽_²⁰⁸⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 146
+  },
+  {
+    "uid": 5337688743,
+    "password": "satvir_RVWjLaqS",
+    "account_id": "16180955983",
+    "name": "satvir♬_²⁵⁹²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:39",
+    "thread_id": 153
+  },
+  {
+    "uid": 5337688715,
+    "password": "satvir_P2Ri7yWA",
+    "account_id": "16180956156",
+    "name": "satvir_⁷⁷¹¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 82
+  },
+  {
+    "uid": 5337688795,
+    "password": "satvir_AYDwBGV0",
+    "account_id": "16180956331",
+    "name": "satvir_⁸⁰³⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 147
+  },
+  {
+    "uid": 5337688719,
+    "password": "satvir_VnUweaSQ",
+    "account_id": "16180955550",
+    "name": "satvir_⁴⁴¹⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 51
+  },
+  {
+    "uid": 5337688782,
+    "password": "satvir_YDpdWX0k",
+    "account_id": "16180956250",
+    "name": "satvir_⁰²⁴⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 133
+  },
+  {
+    "uid": 5337688701,
+    "password": "satvir_RwVeDYWG",
+    "account_id": "16180956007",
+    "name": "satvir✯_¹⁹⁰⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 41
+  },
+  {
+    "uid": 5337688717,
+    "password": "satvir_8kPwz5o8",
+    "account_id": "16180955935",
+    "name": "satvir✫_⁰⁶¹²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 132
+  },
+  {
+    "uid": 5337688742,
+    "password": "satvir_e3ZbYErz",
+    "account_id": "16180955684",
+    "name": "satvir❁_⁶⁴⁰¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 35
+  },
+  {
+    "uid": 5337688927,
+    "password": "satvir_uh2hr8yN",
+    "account_id": "16180955977",
+    "name": "satvir_⁵¹⁴⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:40",
+    "thread_id": 43
+  },
+  {
+    "uid": 5337688839,
+    "password": "satvir_hugsyi2u",
+    "account_id": "16180956169",
+    "name": "satvir_⁹⁷²⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 64
+  },
+  {
+    "uid": 5337688802,
+    "password": "satvir_gI9tWRnh",
+    "account_id": "16180956053",
+    "name": "satvir→_⁷⁵⁹²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 145
+  },
+  {
+    "uid": 5337688641,
+    "password": "satvir_6lyF6wL1",
+    "account_id": "16180956126",
+    "name": "satvir♬_⁶⁰⁰⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 119
+  },
+  {
+    "uid": 5337688700,
+    "password": "satvir_JdOZPMpk",
+    "account_id": "16180956134",
+    "name": "satvir_⁰⁸³⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 92
+  },
+  {
+    "uid": 5337688936,
+    "password": "satvir_31HFs0ry",
+    "account_id": "16180956346",
+    "name": "satvir_⁸³⁰²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 113
+  },
+  {
+    "uid": 5337688930,
+    "password": "satvir_q167pXpt",
+    "account_id": "16180956089",
+    "name": "satvir〰_⁰⁵⁵²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 62
+  },
+  {
+    "uid": 5337688695,
+    "password": "satvir_0l9pRv5A",
+    "account_id": "16180956063",
+    "name": "satvir←_⁴⁹³⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:41",
+    "thread_id": 66
+  },
+  {
+    "uid": 5337688732,
+    "password": "satvir_J7lqDOuL",
+    "account_id": "16180956133",
+    "name": "satvir❧_⁹³⁷⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 83
+  },
+  {
+    "uid": 5337688651,
+    "password": "satvir_HrS8k8Ds",
+    "account_id": "16180956385",
+    "name": "satvir_⁵¹⁸⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 25
+  },
+  {
+    "uid": 5337689001,
+    "password": "satvir_YmRlPlgB",
+    "account_id": "16180956634",
+    "name": "satvir⁂_¹⁵³²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 116
+  },
+  {
+    "uid": 5337689158,
+    "password": "satvir_yCgI76GE",
+    "account_id": "16180956530",
+    "name": "satvir_⁰⁷⁴⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 173
+  },
+  {
+    "uid": 5337688870,
+    "password": "satvir_ZTfxuyv9",
+    "account_id": "16180955946",
+    "name": "satvir❃_³²²¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 109
+  },
+  {
+    "uid": 5337688869,
+    "password": "satvir_eKLLEXRx",
+    "account_id": "16180956587",
+    "name": "satvir❈_⁴⁰⁴⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 107
+  },
+  {
+    "uid": 5337688694,
+    "password": "satvir_b0dha3Jl",
+    "account_id": "16180956919",
+    "name": "satvir_⁶²⁶⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 56
+  },
+  {
+    "uid": 5337688789,
+    "password": "satvir_y8f9r6dh",
+    "account_id": "16180956316",
+    "name": "satvir♫_⁷⁹³⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 157
+  },
+  {
+    "uid": 5337688803,
+    "password": "satvir_PzAhacZm",
+    "account_id": "16180956258",
+    "name": "satvir❉_³⁹¹⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 121
+  },
+  {
+    "uid": 5337688842,
+    "password": "satvir_TIrRqvJd",
+    "account_id": "16180956616",
+    "name": "satvir♪_⁴⁶⁶³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 111
+  },
+  {
+    "uid": 5337688957,
+    "password": "satvir_uDjwGyX3",
+    "account_id": "16180956332",
+    "name": "satvir_⁹⁵⁶¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 154
+  },
+  {
+    "uid": 5337688985,
+    "password": "satvir_wBP2ga3z",
+    "account_id": "16180955966",
+    "name": "satvir_⁷⁴⁶⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 32
+  },
+  {
+    "uid": 5337688708,
+    "password": "satvir_qLXynKlD",
+    "account_id": "16180955938",
+    "name": "satvir_²⁷⁵⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 23
+  },
+  {
+    "uid": 5337688723,
+    "password": "satvir_qS3DMlJi",
+    "account_id": "16180956561",
+    "name": "satvir❆_⁸³⁹⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 72
+  },
+  {
+    "uid": 5337688847,
+    "password": "satvir_kaqYMfVe",
+    "account_id": "16180956374",
+    "name": "satvir★_³²⁷¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 137
+  },
+  {
+    "uid": 5337688948,
+    "password": "satvir_MV94HWXJ",
+    "account_id": "16180956042",
+    "name": "satvir❈_⁷⁰¹⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:42",
+    "thread_id": 155
+  },
+  {
+    "uid": 5337688849,
+    "password": "satvir_UBktZRSl",
+    "account_id": "16180956806",
+    "name": "satvir_⁵⁹⁴⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 103
+  },
+  {
+    "uid": 5337688703,
+    "password": "satvir_nbLi9IuJ",
+    "account_id": "16180956317",
+    "name": "satvir～_¹⁴⁵⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 52
+  },
+  {
+    "uid": 5337688777,
+    "password": "satvir_ag9IYZGg",
+    "account_id": "16180955955",
+    "name": "satvir_¹⁴⁹²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 45
+  },
+  {
+    "uid": 5337688881,
+    "password": "satvir_kxgdYKm5",
+    "account_id": "16180956901",
+    "name": "satvir♥_⁷³⁵¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 142
+  },
+  {
+    "uid": 5337688780,
+    "password": "satvir_fci4nRlv",
+    "account_id": "16180957201",
+    "name": "satvir_⁴⁴⁴⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 144
+  },
+  {
+    "uid": 5337688892,
+    "password": "satvir_y0psU7p3",
+    "account_id": "16180956306",
+    "name": "satvir➔_¹³⁸³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 134
+  },
+  {
+    "uid": 5337688879,
+    "password": "satvir_7PS5ucLF",
+    "account_id": "16180955906",
+    "name": "satvir_⁵²⁵⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 76
+  },
+  {
+    "uid": 5337688698,
+    "password": "satvir_mBTBBAOL",
+    "account_id": "16180955957",
+    "name": "satvir✯_⁴¹⁰¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 70
+  },
+  {
+    "uid": 5337689035,
+    "password": "satvir_2rnPvoBT",
+    "account_id": "16180956887",
+    "name": "satvir_¹⁶⁹⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 160
+  },
+  {
+    "uid": 5337688846,
+    "password": "satvir_0V8Je4wq",
+    "account_id": "16180956853",
+    "name": "satvir〽_⁴⁶⁴⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 136
+  },
+  {
+    "uid": 5337688931,
+    "password": "satvir_bStR6ZLJ",
+    "account_id": "16180956811",
+    "name": "satvir♡_²⁰⁴²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 167
+  },
+  {
+    "uid": 5337688999,
+    "password": "satvir_o4qxBaSB",
+    "account_id": "16180956863",
+    "name": "satvir_³⁹⁶⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 171
+  },
+  {
+    "uid": 5337688740,
+    "password": "satvir_VyIBJv2w",
+    "account_id": "16180956810",
+    "name": "satvir➡_²²⁶²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 126
+  },
+  {
+    "uid": 5337688706,
+    "password": "satvir_XOn835Jt",
+    "account_id": "16180956151",
+    "name": "satvir❀_⁰⁶⁶¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 22
+  },
+  {
+    "uid": 5337688753,
+    "password": "satvir_g2ddRw0h",
+    "account_id": "16180956532",
+    "name": "satvir♬_¹⁴⁰⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 106
+  },
+  {
+    "uid": 5337688871,
+    "password": "satvir_82dYs4UT",
+    "account_id": "16180956230",
+    "name": "satvir✦_³⁷²⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 68
+  },
+  {
+    "uid": 5337688888,
+    "password": "satvir_d0oeh1PW",
+    "account_id": "16180955909",
+    "name": "satvir☆_⁴¹⁸⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 158
+  },
+  {
+    "uid": 5337688643,
+    "password": "satvir_1yszVcm4",
+    "account_id": "16180956647",
+    "name": "satvir✭_¹⁰⁴⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:43",
+    "thread_id": 31
+  },
+  {
+    "uid": 5337688731,
+    "password": "satvir_Jovm1wAf",
+    "account_id": "16180957021",
+    "name": "satvir✯_¹⁴⁵³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 123
+  },
+  {
+    "uid": 5337688971,
+    "password": "satvir_6LY5MNVQ",
+    "account_id": "16180956164",
+    "name": "satvir➜_⁰⁰⁰¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 39
+  },
+  {
+    "uid": 5337689075,
+    "password": "satvir_YvBTl7kD",
+    "account_id": "16180956673",
+    "name": "satvir_⁹²⁸⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 172
+  },
+  {
+    "uid": 5337688868,
+    "password": "satvir_6MpjOotJ",
+    "account_id": "16180956881",
+    "name": "satvir♪_⁰⁴⁰⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 143
+  },
+  {
+    "uid": 5337688652,
+    "password": "satvir_0220L1ls",
+    "account_id": "16180956882",
+    "name": "satvir↑_³⁸⁸⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 78
+  },
+  {
+    "uid": 5337688663,
+    "password": "satvir_JdOmlGRo",
+    "account_id": "16180956050",
+    "name": "satvir❤_⁶⁹²³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 18
+  },
+  {
+    "uid": 5337688756,
+    "password": "satvir_07XZ2nbF",
+    "account_id": "16180956392",
+    "name": "satvir_⁴⁰¹⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 120
+  },
+  {
+    "uid": 5337688915,
+    "password": "satvir_RdbM5qtx",
+    "account_id": "16180956948",
+    "name": "satvir_⁵⁰⁹⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 151
+  },
+  {
+    "uid": 5337688768,
+    "password": "satvir_wW9XXirp",
+    "account_id": "16180955794",
+    "name": "satvir_³³⁸⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 165
+  },
+  {
+    "uid": 5337688689,
+    "password": "satvir_sE5h4WI0",
+    "account_id": "16180957214",
+    "name": "satvir⁑_⁶⁶¹⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 117
+  },
+  {
+    "uid": 5337688820,
+    "password": "satvir_C5brpgFj",
+    "account_id": "16180956740",
+    "name": "satvir♪_¹³⁸⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 54
+  },
+  {
+    "uid": 5337688503,
+    "password": "satvir_0fkCEwqg",
+    "account_id": "16180956542",
+    "name": "satvir_⁶⁶⁷⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 34
+  },
+  {
+    "uid": 5337688622,
+    "password": "satvir_QHF99yco",
+    "account_id": "16180957267",
+    "name": "satvir_⁰⁵⁶⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 79
+  },
+  {
+    "uid": 5337688799,
+    "password": "satvir_01Os7oNL",
+    "account_id": "16180956979",
+    "name": "satvir➜_⁷¹⁵²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 138
+  },
+  {
+    "uid": 5337688754,
+    "password": "satvir_ghGAbs7j",
+    "account_id": "16180956400",
+    "name": "satvir_⁰¹⁸⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 152
+  },
+  {
+    "uid": 5337688747,
+    "password": "satvir_8H0g9sU2",
+    "account_id": "16180956307",
+    "name": "satvir_⁵⁸⁶⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:44",
+    "thread_id": 73
+  },
+  {
+    "uid": 5337689015,
+    "password": "satvir_P0VVplhX",
+    "account_id": "16180957563",
+    "name": "satvir_⁰⁰⁰⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 140
+  },
+  {
+    "uid": 5337688773,
+    "password": "satvir_Hux4jgFH",
+    "account_id": "16180958157",
+    "name": "satvir✪_⁷²⁷⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 60
+  },
+  {
+    "uid": 5337688844,
+    "password": "satvir_gzYljeNq",
+    "account_id": "16180957370",
+    "name": "satvir〆_¹⁴⁵⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 110
+  },
+  {
+    "uid": 5337689071,
+    "password": "satvir_f3IiaQEX",
+    "account_id": "16180956387",
+    "name": "satvir_⁵³⁷⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 49
+  },
+  {
+    "uid": 5337688962,
+    "password": "satvir_wjRXvfpE",
+    "account_id": "16180956235",
+    "name": "satvir_¹⁴³⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 20
+  },
+  {
+    "uid": 5337688541,
+    "password": "satvir_Fw86ILlv",
+    "account_id": "16180957218",
+    "name": "satvir_⁶⁶⁴⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 84
+  },
+  {
+    "uid": 5337688648,
+    "password": "satvir_INRXGmcG",
+    "account_id": "16180957235",
+    "name": "satvir⁂_³⁹⁵³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 48
+  },
+  {
+    "uid": 5337689271,
+    "password": "satvir_6EGuesxM",
+    "account_id": "16180957075",
+    "name": "satvir❅_³¹⁷⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 16
+  },
+  {
+    "uid": 5337688692,
+    "password": "satvir_8OyBwzq3",
+    "account_id": "16180957875",
+    "name": "satvir_¹⁸⁴⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 46
+  },
+  {
+    "uid": 5337688928,
+    "password": "satvir_ouPEeTUH",
+    "account_id": "16180956931",
+    "name": "satvir_²⁹⁰⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 150
+  },
+  {
+    "uid": 5337688924,
+    "password": "satvir_ZFZfu1E1",
+    "account_id": "16180957076",
+    "name": "satvir➛_⁸⁶⁵⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 114
+  },
+  {
+    "uid": 5337688577,
+    "password": "satvir_jMh5MMOI",
+    "account_id": "16180957535",
+    "name": "satvir•_³¹⁷⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 40
+  },
+  {
+    "uid": 5337688854,
+    "password": "satvir_NPc8Wao6",
+    "account_id": "16180957308",
+    "name": "satvir_⁶⁸¹⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 118
+  },
+  {
+    "uid": 5337688823,
+    "password": "satvir_YRk0XYCA",
+    "account_id": "16180957149",
+    "name": "satvir❇_⁹⁷²⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:45",
+    "thread_id": 47
+  },
+  {
+    "uid": 5337689113,
+    "password": "satvir_odmD6Pgu",
+    "account_id": "16180957112",
+    "name": "satvir_¹⁶⁰⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 175
+  },
+  {
+    "uid": 5337688646,
+    "password": "satvir_U843lkXZ",
+    "account_id": "16180958319",
+    "name": "satvir_⁹⁷³⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 130
+  },
+  {
+    "uid": 5337689049,
+    "password": "satvir_fVQRIZJF",
+    "account_id": "16180958122",
+    "name": "satvir↕_⁰⁶⁶¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 12
+  },
+  {
+    "uid": 5337689276,
+    "password": "satvir_dXlzRgGt",
+    "account_id": "16180957415",
+    "name": "satvir_⁷⁰⁶⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 177
+  },
+  {
+    "uid": 5337688893,
+    "password": "satvir_7AKv4ozF",
+    "account_id": "16180957391",
+    "name": "satvir➜_⁰⁴⁶²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 122
+  },
+  {
+    "uid": 5337689057,
+    "password": "satvir_nvvPTKs6",
+    "account_id": "16180957885",
+    "name": "satvir←_⁰⁴⁵⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 91
+  },
+  {
+    "uid": 5337688998,
+    "password": "satvir_dkL004dp",
+    "account_id": "16180957820",
+    "name": "satvir_³⁶¹⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 86
+  },
+  {
+    "uid": 5337689008,
+    "password": "satvir_4tpJIR2x",
+    "account_id": "16180958076",
+    "name": "satvir❊_²⁷¹¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 168
+  },
+  {
+    "uid": 5337689014,
+    "password": "satvir_z1GpxKFr",
+    "account_id": "16180957217",
+    "name": "satvir_²⁸⁶⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 161
+  },
+  {
+    "uid": 5337689336,
+    "password": "satvir_YRLxTtYA",
+    "account_id": "16180958670",
+    "name": "satvir_¹⁴¹⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 178
+  },
+  {
+    "uid": 5337688725,
+    "password": "satvir_BFEzVEwf",
+    "account_id": "16180958195",
+    "name": "satvir❃_⁰⁵²⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 98
+  },
+  {
+    "uid": 5337688758,
+    "password": "satvir_dxfzA7rF",
+    "account_id": "16180958186",
+    "name": "satvir_³²⁸⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 163
+  },
+  {
+    "uid": 5337688932,
+    "password": "satvir_RYI0zN6W",
+    "account_id": "16180958285",
+    "name": "satvir_⁸³³⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 159
+  },
+  {
+    "uid": 5337688813,
+    "password": "satvir_YY7xiIai",
+    "account_id": "16180958267",
+    "name": "satvir_⁹⁶⁵²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 141
+  },
+  {
+    "uid": 5337688558,
+    "password": "satvir_16kMC11h",
+    "account_id": "16180958332",
+    "name": "satvir_⁴²¹³",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:46",
+    "thread_id": 3
+  },
+  {
+    "uid": 5337688631,
+    "password": "satvir_kR8nB2PM",
+    "account_id": "16180957918",
+    "name": "satvir⁂_⁶⁷⁶⁵",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 89
+  },
+  {
+    "uid": 5337688542,
+    "password": "satvir_VnEMKKOY",
+    "account_id": "16180958376",
+    "name": "satvir_¹⁴⁰⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 58
+  },
+  {
+    "uid": 5337688714,
+    "password": "satvir_2qnijEng",
+    "account_id": "16180958724",
+    "name": "satvir_⁰⁹⁸⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 129
+  },
+  {
+    "uid": 5337688653,
+    "password": "satvir_NWv7OaPt",
+    "account_id": "16180958444",
+    "name": "satvir↕_⁶¹³⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 63
+  },
+  {
+    "uid": 5337688591,
+    "password": "satvir_nnxR2RRW",
+    "account_id": "16180958545",
+    "name": "satvir_⁵²⁰⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 77
+  },
+  {
+    "uid": 5337688639,
+    "password": "satvir_suuY6q6f",
+    "account_id": "16180958488",
+    "name": "satvir_⁰⁵⁰²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 75
+  },
+  {
+    "uid": 5337688638,
+    "password": "satvir_0XpZGE0z",
+    "account_id": "16180958695",
+    "name": "satvir※_¹⁰⁸⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 19
+  },
+  {
+    "uid": 5337688588,
+    "password": "satvir_350LD2g3",
+    "account_id": "16180959002",
+    "name": "satvir_⁰⁵⁰⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 53
+  },
+  {
+    "uid": 5337688634,
+    "password": "satvir_WmEqRaIH",
+    "account_id": "16180959118",
+    "name": "satvir➟_⁶⁷⁸⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 57
+  },
+  {
+    "uid": 5337688697,
+    "password": "satvir_84kbhYHs",
+    "account_id": "16180958284",
+    "name": "satvir_⁹²⁸⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 71
+  },
+  {
+    "uid": 5337688596,
+    "password": "satvir_FEIizJBr",
+    "account_id": "16180958869",
+    "name": "satvir〽_³³²⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 104
+  },
+  {
+    "uid": 5337688525,
+    "password": "satvir_BqJ55NNy",
+    "account_id": "16180958776",
+    "name": "satvir_⁴⁶⁶⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 96
+  },
+  {
+    "uid": 5337688793,
+    "password": "satvir_TRVqPZLX",
+    "account_id": "16180957743",
+    "name": "satvir_⁵³⁹⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 97
+  },
+  {
+    "uid": 5337688547,
+    "password": "satvir_HtzZTaMK",
+    "account_id": "16180959047",
+    "name": "satvir→_⁸⁷²¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 26
+  },
+  {
+    "uid": 5337688471,
+    "password": "satvir_hz1hUV2c",
+    "account_id": "16180959004",
+    "name": "satvir_²²⁰⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:47",
+    "thread_id": 11
+  },
+  {
+    "uid": 5337688523,
+    "password": "satvir_sMv7wswm",
+    "account_id": "16180959204",
+    "name": "satvir❥_⁷⁹⁴²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 10
+  },
+  {
+    "uid": 5337688508,
+    "password": "satvir_ERwxDo0G",
+    "account_id": "16180959393",
+    "name": "satvir_⁶⁴⁹⁶",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 28
+  },
+  {
+    "uid": 5337688557,
+    "password": "satvir_auPzokAM",
+    "account_id": "16180959115",
+    "name": "satvir_²¹⁷⁸",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 2
+  },
+  {
+    "uid": 5337688735,
+    "password": "satvir_rA5NV1G1",
+    "account_id": "16180958867",
+    "name": "satvir❤_³⁰⁵⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 131
+  },
+  {
+    "uid": 5337688625,
+    "password": "satvir_vYQACWvg",
+    "account_id": "16180959200",
+    "name": "satvir_³¹³⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 6
+  },
+  {
+    "uid": 5337688509,
+    "password": "satvir_ABiubK1I",
+    "account_id": "16180959274",
+    "name": "satvir•_⁷⁷⁴⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 4
+  },
+  {
+    "uid": 5337688626,
+    "password": "satvir_nhPehJG3",
+    "account_id": "16180959116",
+    "name": "satvir❇_¹⁵⁶⁴",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 33
+  },
+  {
+    "uid": 5337688496,
+    "password": "satvir_bPqfzvsx",
+    "account_id": "16180959365",
+    "name": "satvir_²⁴⁷¹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 24
+  },
+  {
+    "uid": 5337688644,
+    "password": "satvir_nEd735Z4",
+    "account_id": "16180959500",
+    "name": "satvir_⁶⁸³⁰",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 7
+  },
+  {
+    "uid": 5337688779,
+    "password": "satvir_ywbjEO0F",
+    "account_id": "16180959372",
+    "name": "satvir_²⁹⁴²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 128
+  },
+  {
+    "uid": 5337688545,
+    "password": "satvir_TPp8ogc8",
+    "account_id": "16180959078",
+    "name": "satvir〽_⁴⁷³⁷",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 38
+  },
+  {
+    "uid": 5337688599,
+    "password": "satvir_rjQKAPzd",
+    "account_id": "16180959729",
+    "name": "satvir➠_⁸⁰⁵⁹",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:48",
+    "thread_id": 67
+  },
+  {
+    "uid": 5337688594,
+    "password": "satvir_cmNC2HMk",
+    "account_id": "16180959731",
+    "name": "satvir_³⁴²²",
+    "region": "IND",
+    "date_created": "2026-06-26 08:28:49",
+    "thread_id": 37
+  }
+]
